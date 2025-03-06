@@ -6,5 +6,13 @@
         "Genre": "travel",
         "Price": 200.0,
         "Quantity": "3"
+    },
+    {
+        "Tittle": "Geometry",
+        "Author": "M H Rahaman",
+        "ISBN": "2007",
+        "Genre": "Mathematics",
+        "Price": 400.0,
+        "Quantity": "2"
     }
 ]

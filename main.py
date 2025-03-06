@@ -5,7 +5,8 @@ from search_book import search_book
 
 def main():
     while True:
-        print("\n Book Store Management System")
+        print("\nBook Store Management System")
+        print("****************************")
         print("1.Add Book")
         print("2.View Book")
         print("3.Search Book")
